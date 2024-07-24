@@ -2,7 +2,7 @@
 
 A simple application for broadcasting video or audio files from your PC to a web page, video player (e.g. MPV, VLC) or VRChat.
 
-![](doc/icon.png)
+<img src="doc/icon.png" width="256"/>
 
 ## Dependencies
 
